@@ -1,7 +1,7 @@
 {
     "name": "vscode-plugin-demo",
     "displayName": "vscode-plugin-demo",
-    "description": "VSCode插件demo",
+    "description": "NidhoggDJoking for VSCode",
     "keywords": [
         "vscode",
         "plugin",
@@ -10,7 +10,7 @@
     "version": "1.0.3",
     "publisher": "sxei",
     "engines": {
-        "vscode": "^1.27.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Other"
@@ -39,7 +39,7 @@
         },
         "commands": [{
                 "command": "extension.sayHello",
-                "title": "Hello，小茗同学"
+                "title": "Joking"
             },
             {
                 "command": "extension.demo.getCurrentFilePath",
@@ -128,7 +128,7 @@
         "viewsContainers": {
             "activitybar": [{
                 "id": "beautifulGirl",
-                "title": "大标题",
+                "title": "永世长存",
                 "icon": "images/beautifulGirl.svg"
             }]
         },
@@ -172,5 +172,5 @@
         "type": "git",
         "url": "https://github.com/sxei/vscode-plugin-demo"
     },
-    "homepage": "https://github.com/sxei/vscode-plugin-demo/blob/master/README.md"
+    "homepage": "https://nidhoggdjoking.github.io"
 }
